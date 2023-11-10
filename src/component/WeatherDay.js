@@ -12,7 +12,7 @@ const WeatherDay = ({ iconday, tempfday, tempcday, dateday, humidityday, uvday})
             setTemp(tempcday)
             setF("C")
         }
-    }
+    } 
     return (
         <div className='my-4'>
             <div className="card">
